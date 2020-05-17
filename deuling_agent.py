@@ -1,3 +1,4 @@
+###### NOTE: The DQN implementation code is used from Udacity DRL degree. The code is modified for Navigation project ########
 import numpy as np
 import random
 from collections import namedtuple, deque
