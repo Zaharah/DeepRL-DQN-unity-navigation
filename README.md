@@ -6,7 +6,8 @@
 
 ### Introduction
 
-An agent is trained to navigate in a square world to collect yellow bananas.  Following is a `agent in action`  trained with Double DQN algorithm for 1000 episodes. The :robot: successfully collected 20 banana in total :star_struck:.  
+An agent is trained to navigate in a square world to collect yellow bananas.  
+Following is a `agent in action`  trained with Double DQN algorithm for 1000 episodes. The :robot: successfully collected 20 banana in total :star_struck:.  
 
 ![Trained Agent][image1]
 
@@ -29,9 +30,9 @@ The task is episodic, and in order to solve the environment, your agent must get
   * Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
   * Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
 
-3. Place the file in the 'p1_navigation/' folder, and unzip (or decompress) the file.
+3. Place the file in the `p1_navigation/` folder, and unzip (or decompress) the file.
 
 ### Instructions
 
- * Follow the instructions in 'Navigation_project.ipynb' to train your agent.
+ * Follow the instructions in `Navigation_project.ipynb` to train your agent.
  * You can also use the saved model from 'Models/dqn' to see a trained agent in actions. 
