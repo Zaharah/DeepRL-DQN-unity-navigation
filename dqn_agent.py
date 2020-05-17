@@ -1,3 +1,5 @@
+###### NOTE: Code from Udacity (Deep reinforcement learning degree) DQN implementation is used for this project ########
+
 import numpy as np
 import random
 from collections import namedtuple, deque
