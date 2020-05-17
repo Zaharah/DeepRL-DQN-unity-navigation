@@ -1,3 +1,4 @@
+###### NOTE: The DQN implementation code is used from Udacity DRL degree. The code is modified for Navigation project ########
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
