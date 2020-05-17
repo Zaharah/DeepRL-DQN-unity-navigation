@@ -1,4 +1,4 @@
-###### NOTE: Code from Udacity (Deep reinforcement learning degree) DQN implementation is used for this project ########
+###### NOTE: The DQN implementation code is used from Udacity DRL degree. The code is modified for Navigation project ########
 
 import numpy as np
 import random
