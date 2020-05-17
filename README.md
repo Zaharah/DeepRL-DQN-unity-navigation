@@ -6,7 +6,7 @@
 
 ### Introduction
 
-An agent is trained to navigate in a square world to collect yellow bananas.  Following is a **agent in action**m trained with Double DQN algorithm for 1000 episodes. 
+An agent is trained to navigate in a square world to collect yellow bananas.  Following is a `agent in action`  trained with Double DQN algorithm for 1000 episodes. The :robot: successfully collected 20 banana in total :star_struck:.  
 
 ![Trained Agent][image1]
 
