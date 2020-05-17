@@ -35,4 +35,4 @@ The task is episodic, and in order to solve the environment, your agent must get
 ### Instructions
 
  * Follow the instructions in `Navigation_project.ipynb` to train your agent.
- * You can also use the saved model from 'Models/dqn' to see a trained agent in actions. 
+ * You can also use the saved model from `Models/dqn.pth` to see a trained agent in actions. 
